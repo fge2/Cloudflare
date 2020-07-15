@@ -1,0 +1,6 @@
+name = "cloudflare-app-fge"
+type = "javascript"
+account_id = "d6d9fbd930d3807b20413e7f80b703da"
+workers_dev = true
+route = ""
+zone_id = ""
